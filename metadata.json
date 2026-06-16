@@ -1,0 +1,8 @@
+{
+  "name": "PIXL Interactive Portfolio",
+  "description": "A professional, neon-themed single-page site showcasing PIXL's minimalist branding, interactive videos, and graphic displays with smooth parallax scrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
